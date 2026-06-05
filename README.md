@@ -53,6 +53,12 @@ End-to-end Industrial IoT solution simulating 8 LoRaWAN machines with real-time 
 
 ---
 
+###🎓 Student Performance Predictor
+
+> Python · Flask · MongoDB · scikit-learn · GitLab API · pandas
+
+Full-stack web application that predicts student outcomes in a Software Engineering course based on GitLab activity (commits, merge requests, issues). Features three ML models in production — grade regression, pass/fail classification, and performance tier — with real-time GitLab data ingestion, metric caching, prediction history and group dashboards.
+
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-pereira-30996b1b2)

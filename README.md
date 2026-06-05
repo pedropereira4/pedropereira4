@@ -53,7 +53,7 @@ End-to-end Industrial IoT solution simulating 8 LoRaWAN machines with real-time 
 
 ---
 
-### 🎓 Student Performance Predictor(https://github.com/pedropereira4/student-performance-predictor)
+### 🎓 [Student Performance Predictor](https://github.com/pedropereira4/student-performance-predictor)
 
 > Python · Flask · MongoDB · scikit-learn · GitLab API · pandas
 

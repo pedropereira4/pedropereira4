@@ -25,10 +25,12 @@
 
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Apache Lucene](https://img.shields.io/badge/Apache%20Lucene-19A974?style=flat&logo=apache&logoColor=white)
 
 **Frameworks & Tools**
 
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipsemosquitto&logoColor=white)
@@ -54,10 +56,18 @@ End-to-end Industrial IoT solution simulating 8 LoRaWAN machines with real-time 
 ---
 
 ### 🎓 [Student Performance Predictor](https://github.com/pedropereira4/student-performance-predictor)
-
 > Python · Flask · MongoDB · scikit-learn · GitLab API · pandas
 
 Full-stack web application that predicts student outcomes in a Software Engineering course based on GitLab activity (commits, merge requests, issues). Features three ML models in production — grade regression, pass/fail classification, and performance tier — with real-time GitLab data ingestion, metric caching, prediction history and group dashboards.
+
+---
+
+### 📡 [Smart Datacenter Monitoring](https://github.com/pedropereira4/smart-datacenter-monitoring)
+> Python · Apache Kafka · Telegraf · InfluxDB 2.0 · Docker Compose
+
+Containerised real-time monitoring pipeline for a simulated datacenter. Six Python producers stream temperature, power, cooling, and humidity data through Kafka, ingested by Telegraf into InfluxDB, with threshold-based Flux alerts and an importable Grafana dashboard.
+
+---
 
 ## Let's Connect
 

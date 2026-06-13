@@ -1,5 +1,4 @@
 # Hi, I'm Pedro 👋
-
 **Data Engineering & Science graduate** from the University of Coimbra, passionate about building systems that turn raw data into real decisions — from IoT pipelines to distributed search engines.
 
 ---
@@ -40,6 +39,13 @@
 ---
 
 ## Featured Projects
+
+### 📊 [Meta Platforms — KPI & Valuation Dashboard](https://github.com/pedropereira4/meta-kpi-dashboard)
+> Python · Streamlit · Plotly · SEC EDGAR API · yfinance · pandas
+
+A personal investment research tool that tracks Meta's core business metrics and valuation ratios in real time. Financial data (Revenue, CAPEX, FCF, Operating Margin) is pulled directly from the SEC EDGAR XBRL API — the same primary source used by professional analysts. Includes live P/E, P/S, EV/EBITDA, P/B and FCF Yield with historical trend charts.
+
+---
 
 ### 🔍 [Googol — Distributed Search Engine](https://github.com/pedropereira4/googol)
 > Java 21 · Spring Boot 3.2 · Apache Lucene BM25 · Java RMI · Multicast UDP · Thymeleaf · OpenRouter LLM

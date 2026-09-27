@@ -1,4 +1,4 @@
-# Hi, I'm Pedro 👋
+# Hi, I'm José Pedro 👋
 **Data Engineering & Science graduate** from the University of Coimbra, passionate about building systems that turn raw data into real decisions — from IoT pipelines to distributed search engines.
 
 ---
